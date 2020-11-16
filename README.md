@@ -1,8 +1,6 @@
-# Traffic-Simulation
+# Dice-game
 
-객체지향, TDD, 클린 코드 연습용 Toy 프로젝트.
-
-주사위 게임
+객체지향, TDD, 클린 코드 연습용 Toy 프로젝트
 
 ## 기능
 
